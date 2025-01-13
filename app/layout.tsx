@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import Navbar from './components/Navbar';
 
 export const metadata: Metadata = {
-  title: 'ExamPur - Online Examination Platform',
+  title: 'ExamPro - Online Examination Platform',
   description: 'Take exams online with ease',
 };
 
